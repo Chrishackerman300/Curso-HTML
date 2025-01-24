@@ -75,3 +75,8 @@ Está etiqueta suele tener contenido adicional de la web, **pero de muy poca imp
 
 * ### Etiqueta footer:
 Está etiqueta define el pie de página de nuestra web, esta etiqueta se utiliza principalmente para poner información acerca de una empresa, como **(contactos, logotipo, números telefónicos, direcciones, etc)**.
+
+### Sintaxis:
+```html
+<footer></footer>
+```
