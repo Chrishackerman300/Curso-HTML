@@ -130,3 +130,5 @@ Está etiqueta es utilizada para definir la leyenda de la figura. **Casi no es m
 ```html
 <figcaption></figcaption>
 ```
+
+> #### En el archivo index html que está en está carpeta del repositorio podrás encontrar como se utilizan cada una de estás etiquetas de agrupación de contenido y verás como se muestra el contenido en tu navegador web.
