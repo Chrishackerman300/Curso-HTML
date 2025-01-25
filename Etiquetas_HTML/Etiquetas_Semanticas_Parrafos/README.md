@@ -122,3 +122,5 @@ Está etiqueta **ignora las etiquetas dentró del html**.
 ```html
 <xmp></xmp>
 ```
+
+> #### En el archivo index html que está en está carpeta del repositorio podrás encontrar como se utilizan cada una de estás etiquetas de semánticas de párrafos y verás como se muestra el contenido en tu navegador web.
