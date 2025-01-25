@@ -80,3 +80,5 @@ Está etiqueta define el pie de página de nuestra web, esta etiqueta se utiliza
 ```html
 <footer></footer>
 ```
+
+> #### En el archivo index html que está en está carpeta del repositorio podrás encontrar como se utilizan cada una de estás etiquetas de secciones y verás como se muestra el contenido en tu navegador web.
