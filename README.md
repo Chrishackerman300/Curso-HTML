@@ -51,6 +51,11 @@ HTML sólo sirve para indicar como va ordenado el contenido de nuestra web. Esto
     * Atributos de la etiqueta form
     * Atributos de la etiqueta input
 
+## ¿Cómo usar HTML?
+Para usar HTML es necesario tener un editor de código como **(SublimeText, Visual Studio Code, Vim, etc.)** Y sólo necesitarás crear un archivo con la externsión .html, un ejemplo de archivo sería este: **(index.html)**.
+
+Después en tu editor de código que utilices deberás seleccionar la opción que diga navegador web e indicar que navegador quieres utilizar, y solo deberás abrir tu archivo en tu navegador deseado y listo podras empezar a aprender HTML.
+
 ## Agradecimientos
 
 Espero que con este repositorio seas capas de aprender al 100% HTML, toda explicación fue detallada por mi parte para que algunos temas sean más sencillos de entender y con ejemplos reales, con los cuales como desarrollador front-end o fullstack te enfrentarás.
