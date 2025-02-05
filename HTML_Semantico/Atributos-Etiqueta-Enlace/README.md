@@ -26,3 +26,4 @@ Estos son los atributos de la etiqueta de enlace:
     <a href="hipervínculo" target="_blank">Soy un hipervínculo con una direccion href y abrire otra pestaña en el navegador</a>
     ```
 
+> #### En el archivo index html que está en está carpeta del repositorio podrás encontrar como se utilizan cada una de estos atributos de la etiqueta de enlace y verás como se muestra el contenido en tu navegador web.
